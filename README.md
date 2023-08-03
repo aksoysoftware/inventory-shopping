@@ -1,7 +1,10 @@
 # inventory-shopping
 
 Spring Boot REST Endpoints 
-	/categories
+	
+ 
+ 
+ 	/categories
   
 	/products/{categoryid}
   
